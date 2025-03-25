@@ -1,0 +1,1319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EF Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\loadstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\loadstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\loadinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\loadinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\updatecoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\updatecoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\updatecourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\updatecourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\updatedeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\updatedeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\updateinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\updateinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\updatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\updatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\coursesessionattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\coursesessionattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\coursesessionattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\coursesessionattendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\csadelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\csadelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\csadelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\csadelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\deletecoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\deletecoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\deletecoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\deletecoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\csaupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\csaupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\csaupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\csaupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\csaupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\csaupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\csaload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\csaload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\csaload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\csaload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\csainsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\csainsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\csainsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\csainsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\insertcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\insertcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\insertdeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\insertdeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\loadcoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\loadcoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\ef project forms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\ef project forms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\updatecoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\updatecoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\coursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\coursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\updatecoursesessionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\updatecoursesessionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\insertcoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\insertcoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\insertcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\insertcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\insertcourseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\insertcourseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\insertcoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\insertcoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\insertinsorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\insertinsorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\insertinsorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\insertinsorm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\insertdeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\insertdeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\insertstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\insertstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\insertstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\insertstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\loadcoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\loadcoursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\loadcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\loadcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\models\\coursesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\models\\coursesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\coursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\coursesessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\deleteinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\deleteinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\deleteinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\deleteinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\updateinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\updateinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\deletecourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\deletecourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\loadinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\loadinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\deptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\deptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\deptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\deptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\updatecourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\updatecourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\loadcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\loadcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\loadstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\loadstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\deletedeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\deletedeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\deletedeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\deletedeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\updatedeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\updatedeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\updatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\updatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\insertdeptform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\insertdeptform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\loaddeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\loaddeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\context\\ef_projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\context\\ef_projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\loaddeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\loaddeptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|D:\\EF Project\\ef project forms\\deletestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\deletestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\deletestudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\deletestudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC1F039-240B-482F-BF53-F470BF336A75}|EF Project Creating DB\\EF Project Creating DB.csproj|d:\\ef project\\ef project creating db\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC1F039-240B-482F-BF53-F470BF336A75}|EF Project Creating DB\\EF Project Creating DB.csproj|solutionrelative:ef project creating db\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\insertstudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\insertstudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EF Project\\EF Project Forms\\bin\\Debug\\net8.0-windows\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EF Project Forms\\bin\\Debug\\net8.0-windows\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC1F039-240B-482F-BF53-F470BF336A75}|EF Project Creating DB\\EF Project Creating DB.csproj|d:\\ef project\\ef project creating db\\context\\my_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC1F039-240B-482F-BF53-F470BF336A75}|EF Project Creating DB\\EF Project Creating DB.csproj|solutionrelative:ef project creating db\\context\\my_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\models\\coursesessionattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\models\\coursesessionattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|d:\\ef project\\ef project forms\\loadcourseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EC2903-B21C-4888-B719-E2DC68F544DE}|EF Project Forms\\EF Project Forms.csproj|solutionrelative:ef project forms\\loadcourseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DeptForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\DeptForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\DeptForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\DeptForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\DeptForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:03:09.293Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "LoadDeptForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\LoadDeptForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\LoadDeptForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\LoadDeptForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\LoadDeptForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:08:23.296Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DeleteDeptForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\DeleteDeptForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\DeleteDeptForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\DeleteDeptForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\DeleteDeptForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:09:29.24Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "InsertDeptForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\InsertDeptForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\InsertDeptForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\InsertDeptForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\InsertDeptForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:08:46.965Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateDeptForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\UpdateDeptForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\UpdateDeptForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\UpdateDeptForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\UpdateDeptForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:09:08.827Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdatecourseForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\UpdatecourseForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\UpdatecourseForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\UpdatecourseForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\UpdatecourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:18:07.556Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateCourseSessionForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\UpdateCourseSessionForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\UpdateCourseSessionForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\UpdateCourseSessionForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\UpdateCourseSessionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:23:39.143Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\StudentForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\StudentForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\StudentForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\StudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:45:23.422Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadStudentForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\LoadStudentForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\LoadStudentForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\LoadStudentForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\LoadStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:49:29.439Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadInsForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\LoadInsForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\LoadInsForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\LoadInsForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\LoadInsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:32:22.081Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateInsForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\UpdateInsForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\UpdateInsForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\UpdateInsForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\UpdateInsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T08:19:10.544Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateStudentForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\UpdateStudentForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\UpdateStudentForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\UpdateStudentForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\UpdateStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:34:21.332Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseSessionAttendanceForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CourseSessionAttendanceForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CourseSessionAttendanceForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CourseSessionAttendanceForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\CourseSessionAttendanceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:02:29.259Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseSessionAttendanceForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CourseSessionAttendanceForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CourseSessionAttendanceForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CourseSessionAttendanceForm.cs",
+              "RelativeToolTip": "EF Project Forms\\CourseSessionAttendanceForm.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAtwFEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:01:31.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CourseForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CourseForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CourseForm.cs",
+              "RelativeToolTip": "EF Project Forms\\CourseForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAlwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:30:56.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CourseForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CourseForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CourseForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\CourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:30:53.031Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\Models\\Course.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\Models\\Course.cs",
+              "RelativeToolTip": "EF Project Forms\\Models\\Course.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAewBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:29:10.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\Form1.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\Form1.cs",
+              "RelativeToolTip": "EF Project Forms\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA7wBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:38:33.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\Form1.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:38:31.407Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CSADelete.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CSADelete.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CSADelete.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CSADelete.cs",
+              "RelativeToolTip": "EF Project Forms\\CSADelete.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAtwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:45:17.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CSADelete.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CSADelete.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CSADelete.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CSADelete.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\CSADelete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:39:54.124Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteCourseSessionForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\DeleteCourseSessionForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\DeleteCourseSessionForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\DeleteCourseSessionForm.cs",
+              "RelativeToolTip": "EF Project Forms\\DeleteCourseSessionForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:14:08.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteCourseSessionForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\DeleteCourseSessionForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\DeleteCourseSessionForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\DeleteCourseSessionForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\DeleteCourseSessionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:07:54.855Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CSAUpdate.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CSAUpdate.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CSAUpdate.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CSAUpdate.cs",
+              "RelativeToolTip": "EF Project Forms\\CSAUpdate.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vw8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:28:59.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CSAUpdate.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CSAUpdate.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CSAUpdate.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CSAUpdate.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\CSAUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:45:06.13Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CSAUpdate.Designer.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CSAUpdate.Designer.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CSAUpdate.Designer.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CSAUpdate.Designer.cs",
+              "RelativeToolTip": "EF Project Forms\\CSAUpdate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:12:02.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CSALoad.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CSALoad.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CSALoad.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CSALoad.cs",
+              "RelativeToolTip": "EF Project Forms\\CSALoad.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAlwCIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:41:04.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CSALoad.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CSALoad.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CSALoad.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CSALoad.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\CSALoad.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:38:57.448Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CSAInsert.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CSAInsert.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CSAInsert.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CSAInsert.cs",
+              "RelativeToolTip": "EF Project Forms\\CSAInsert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:48:21.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CSAInsert.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CSAInsert.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CSAInsert.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CSAInsert.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\CSAInsert.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:39:23.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoadCourseSessionForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\LoadCourseSessionForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\LoadCourseSessionForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\LoadCourseSessionForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\LoadCourseSessionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:06:34.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "insertcourseForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\insertcourseForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\insertcourseForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\insertcourseForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\insertcourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T08:48:24.622Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\efpt.config.json",
+              "RelativeDocumentMoniker": "EF Project Forms\\efpt.config.json",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\efpt.config.json",
+              "RelativeToolTip": "EF Project Forms\\efpt.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T00:38:03.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EF Project Forms.csproj",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\EF Project Forms.csproj",
+              "RelativeDocumentMoniker": "EF Project Forms\\EF Project Forms.csproj",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\EF Project Forms.csproj",
+              "RelativeToolTip": "EF Project Forms\\EF Project Forms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T18:59:30.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateCourseSessionForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\UpdateCourseSessionForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\UpdateCourseSessionForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\UpdateCourseSessionForm.cs",
+              "RelativeToolTip": "EF Project Forms\\UpdateCourseSessionForm.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv1IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:56:36.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CourseSessionForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CourseSessionForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CourseSessionForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CourseSessionForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\CourseSessionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:02:26.483Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateCourseSessionForm.Designer.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\UpdateCourseSessionForm.Designer.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\UpdateCourseSessionForm.Designer.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\UpdateCourseSessionForm.Designer.cs",
+              "RelativeToolTip": "EF Project Forms\\UpdateCourseSessionForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:54:41.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "InsertCourseSessionForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\InsertCourseSessionForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\InsertCourseSessionForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\InsertCourseSessionForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\InsertCourseSessionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:07:07.072Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "insertcourseForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\insertcourseForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\insertcourseForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\insertcourseForm.cs",
+              "RelativeToolTip": "EF Project Forms\\insertcourseForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:25:34.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "insertcourseForm.Designer.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\insertcourseForm.Designer.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\insertcourseForm.Designer.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\insertcourseForm.Designer.cs",
+              "RelativeToolTip": "EF Project Forms\\insertcourseForm.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:32:44.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InsertInsorm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\InsertInsorm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\InsertInsorm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\InsertInsorm.cs",
+              "RelativeToolTip": "EF Project Forms\\InsertInsorm.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:33:02.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "InsertInsorm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\InsertInsorm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\InsertInsorm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\InsertInsorm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\InsertInsorm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T08:18:53.804Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InsertCourseSessionForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\InsertCourseSessionForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\InsertCourseSessionForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\InsertCourseSessionForm.cs",
+              "RelativeToolTip": "EF Project Forms\\InsertCourseSessionForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:19:26.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "InsertDeptForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\InsertDeptForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\InsertDeptForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\InsertDeptForm.cs",
+              "RelativeToolTip": "EF Project Forms\\InsertDeptForm.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:16:30.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "InsertStudentForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\InsertStudentForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\InsertStudentForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\InsertStudentForm.cs",
+              "RelativeToolTip": "EF Project Forms\\InsertStudentForm.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:25:07.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "InsertStudentForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\InsertStudentForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\InsertStudentForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\InsertStudentForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\InsertStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:17:45.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LoadCourseSessionForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\LoadCourseSessionForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\LoadCourseSessionForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\LoadCourseSessionForm.cs",
+              "RelativeToolTip": "EF Project Forms\\LoadCourseSessionForm.cs",
+              "ViewState": "AgIAACgAAAAA8h7v8R4iwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:10:31.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CourseSession.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\Models\\CourseSession.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\Models\\CourseSession.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\Models\\CourseSession.cs",
+              "RelativeToolTip": "EF Project Forms\\Models\\CourseSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:15:11.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CourseSessionForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\CourseSessionForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\CourseSessionForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\CourseSessionForm.cs",
+              "RelativeToolTip": "EF Project Forms\\CourseSessionForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:04:40.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "loadcourseForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\loadcourseForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\loadcourseForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\loadcourseForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\loadcourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:11:42.081Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DeleteInsForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\DeleteInsForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\DeleteInsForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\DeleteInsForm.cs",
+              "RelativeToolTip": "EF Project Forms\\DeleteInsForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:20:25.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DeleteInsForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\DeleteInsForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\DeleteInsForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\DeleteInsForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\DeleteInsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:23:45.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdateInsForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\UpdateInsForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\UpdateInsForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\UpdateInsForm.cs",
+              "RelativeToolTip": "EF Project Forms\\UpdateInsForm.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:44:38.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DeletecourseForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\DeletecourseForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\DeletecourseForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\DeletecourseForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\DeletecourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:19:07.114Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "InstructorForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\InstructorForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\InstructorForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\InstructorForm.cs",
+              "RelativeToolTip": "EF Project Forms\\InstructorForm.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAtwC8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:34:48.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UpdatecourseForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\UpdatecourseForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\UpdatecourseForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\UpdatecourseForm.cs",
+              "RelativeToolTip": "EF Project Forms\\UpdatecourseForm.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAArwEMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:44:31.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DeptForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\DeptForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\DeptForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\DeptForm.cs",
+              "RelativeToolTip": "EF Project Forms\\DeptForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwvz4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:09:40.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\StudentForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\StudentForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\StudentForm.cs",
+              "RelativeToolTip": "EF Project Forms\\StudentForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwv0IAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:45:57.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LoadInsForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\LoadInsForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\LoadInsForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\LoadInsForm.cs",
+              "RelativeToolTip": "EF Project Forms\\LoadInsForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvycAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T08:21:17.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAL8UAAAAAAAAAAAlwM0UAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-15T07:46:42.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DeleteDeptForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\DeleteDeptForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\DeleteDeptForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\DeleteDeptForm.cs",
+              "RelativeToolTip": "EF Project Forms\\DeleteDeptForm.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAvwGgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:48:25.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LoadStudentForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\LoadStudentForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\LoadStudentForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\LoadStudentForm.cs",
+              "RelativeToolTip": "EF Project Forms\\LoadStudentForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAxwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:52:03.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "loadcourseForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\loadcourseForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\loadcourseForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\loadcourseForm.cs",
+              "RelativeToolTip": "EF Project Forms\\loadcourseForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAWwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:27:48.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\Models\\Department.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\Models\\Department.cs",
+              "RelativeToolTip": "EF Project Forms\\Models\\Department.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T03:12:43.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UpdateStudentForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\UpdateStudentForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\UpdateStudentForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\UpdateStudentForm.cs",
+              "RelativeToolTip": "EF Project Forms\\UpdateStudentForm.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:39:15.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UpdateDeptForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\UpdateDeptForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\UpdateDeptForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\UpdateDeptForm.cs",
+              "RelativeToolTip": "EF Project Forms\\UpdateDeptForm.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:35:54.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "InsertDeptForm.Designer.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\InsertDeptForm.Designer.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\InsertDeptForm.Designer.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\InsertDeptForm.Designer.cs",
+              "RelativeToolTip": "EF Project Forms\\InsertDeptForm.Designer.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAcwJQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T03:27:02.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "EF_ProjectContext.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\Context\\EF_ProjectContext.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\Context\\EF_ProjectContext.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\Context\\EF_ProjectContext.cs",
+              "RelativeToolTip": "EF Project Forms\\Context\\EF_ProjectContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:28:06.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "LoadDeptForm.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\LoadDeptForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\LoadDeptForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\LoadDeptForm.cs",
+              "RelativeToolTip": "EF Project Forms\\LoadDeptForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:12:55.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Creating DB\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EF Project Creating DB\\Models\\Department.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Creating DB\\Models\\Department.cs",
+              "RelativeToolTip": "EF Project Creating DB\\Models\\Department.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:38:11.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DeleteStudentForm.Designer.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\DeleteStudentForm.Designer.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\DeleteStudentForm.Designer.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\DeleteStudentForm.Designer.cs",
+              "RelativeToolTip": "EF Project Forms\\DeleteStudentForm.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAWwEQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:43:59.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "InsertStudentForm.Designer.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\InsertStudentForm.Designer.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\InsertStudentForm.Designer.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\InsertStudentForm.Designer.cs",
+              "RelativeToolTip": "EF Project Forms\\InsertStudentForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:18:15.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\Models\\Instructor.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\Models\\Instructor.cs",
+              "RelativeToolTip": "EF Project Forms\\Models\\Instructor.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:32:46.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\bin\\Debug\\net8.0-windows\\appsettings.json",
+              "RelativeDocumentMoniker": "EF Project Forms\\bin\\Debug\\net8.0-windows\\appsettings.json",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\bin\\Debug\\net8.0-windows\\appsettings.json",
+              "RelativeToolTip": "EF Project Forms\\bin\\Debug\\net8.0-windows\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T09:21:16.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "My_Context.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Creating DB\\Context\\My_Context.cs",
+              "RelativeDocumentMoniker": "EF Project Creating DB\\Context\\My_Context.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Creating DB\\Context\\My_Context.cs",
+              "RelativeToolTip": "EF Project Creating DB\\Context\\My_Context.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAuwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:00:30.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CourseSessionAttendance.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\Models\\CourseSessionAttendance.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\Models\\CourseSessionAttendance.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\Models\\CourseSessionAttendance.cs",
+              "RelativeToolTip": "EF Project Forms\\Models\\CourseSessionAttendance.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:15:13.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "loadcourseForm.Designer.cs",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\loadcourseForm.Designer.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\loadcourseForm.Designer.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\loadcourseForm.Designer.cs",
+              "RelativeToolTip": "EF Project Forms\\loadcourseForm.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwC8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:50:20.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "InstructorForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\InstructorForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\InstructorForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\InstructorForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\InstructorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:40:06.063Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DeleteStudentForm.cs [Design]",
+              "DocumentMoniker": "D:\\EF Project\\EF Project Forms\\DeleteStudentForm.cs",
+              "RelativeDocumentMoniker": "EF Project Forms\\DeleteStudentForm.cs",
+              "ToolTip": "D:\\EF Project\\EF Project Forms\\DeleteStudentForm.cs [Design]",
+              "RelativeToolTip": "EF Project Forms\\DeleteStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:45:04.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

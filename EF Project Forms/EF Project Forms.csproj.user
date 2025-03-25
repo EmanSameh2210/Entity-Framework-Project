@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CSAInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CSALoad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CSAUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CSADelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeletecourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteCourseSessionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteDeptForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteInsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="insertcourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CourseSessionAttendanceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CourseSessionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeptForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InsertCourseSessionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InsertDeptForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InsertInsorm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InsertStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InstructorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loadcourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadCourseSessionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadDeptForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadInsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdatecourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateCourseSessionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateDeptForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateInsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -80,6 +80,11 @@ namespace EF_Project_Forms
             }
         }
 
+        private void UpdateDeptForm_Load(object sender, EventArgs e)
+        {
+            LoadManagers();
+
+        }
         private void DeptCombo_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (DeptCombo.SelectedValue is int selected_id)
@@ -96,10 +101,6 @@ namespace EF_Project_Forms
 
         }
 
-        private void UpdateDeptForm_Load(object sender, EventArgs e)
-        {
-            LoadManagers();
-
-        }
+        
     }
 }

@@ -1,8 +1,4 @@
 D:\EF Project\EF Project Forms\bin\Debug\net8.0-windows\EF Project Forms.exe
-D:\EF Project\EF Project Forms\bin\Debug\net8.0-windows\EF Project Forms.deps.json
-D:\EF Project\EF Project Forms\bin\Debug\net8.0-windows\EF Project Forms.runtimeconfig.json
-D:\EF Project\EF Project Forms\bin\Debug\net8.0-windows\EF Project Forms.dll
-D:\EF Project\EF Project Forms\bin\Debug\net8.0-windows\EF Project Forms.pdb
 D:\EF Project\EF Project Forms\bin\Debug\net8.0-windows\Azure.Core.dll
 D:\EF Project\EF Project Forms\bin\Debug\net8.0-windows\Azure.Identity.dll
 D:\EF Project\EF Project Forms\bin\Debug\net8.0-windows\Humanizer.dll
@@ -137,6 +133,10 @@ D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF Project Forms.csproj.
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF_Project_Forms.CourseForm.resources
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF_Project_Forms.CourseSessionAttendanceForm.resources
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF_Project_Forms.CourseSessionForm.resources
+D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF_Project_Forms.CSADelete.resources
+D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF_Project_Forms.CSAInsert.resources
+D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF_Project_Forms.CSALoad.resources
+D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF_Project_Forms.CSAUpdate.resources
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF_Project_Forms.Course_CRUD.DeletecourseForm.resources
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF_Project_Forms.DeleteCourseSessionForm.resources
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF_Project_Forms.DeleteDeptForm.resources
@@ -167,13 +167,14 @@ D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF Project Forms.Generat
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF Project Forms.AssemblyInfoInputs.cache
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF Project Forms.AssemblyInfo.cs
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF Project Forms.csproj.CoreCompileInputs.cache
+D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF Project Forms.sourcelink.json
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF Proje.97099422.Up2Date
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF Project Forms.dll
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\refint\EF Project Forms.dll
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF Project Forms.pdb
+D:\EF Project\EF Project Forms\bin\Debug\net8.0-windows\EF Project Forms.deps.json
+D:\EF Project\EF Project Forms\bin\Debug\net8.0-windows\EF Project Forms.runtimeconfig.json
+D:\EF Project\EF Project Forms\bin\Debug\net8.0-windows\EF Project Forms.dll
+D:\EF Project\EF Project Forms\bin\Debug\net8.0-windows\EF Project Forms.pdb
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF Project Forms.genruntimeconfig.cache
 D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\ref\EF Project Forms.dll
-D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF_Project_Forms.CSAInsert.resources
-D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF_Project_Forms.CSALoad.resources
-D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF_Project_Forms.CSAUpdate.resources
-D:\EF Project\EF Project Forms\obj\Debug\net8.0-windows\EF_Project_Forms.CSADelete.resources

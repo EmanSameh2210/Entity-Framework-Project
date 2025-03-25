@@ -144,6 +144,7 @@ D:\EF Project\EF Project Creating DB\obj\Debug\net8.0\EF Project Creating DB.Gen
 D:\EF Project\EF Project Creating DB\obj\Debug\net8.0\EF Project Creating DB.AssemblyInfoInputs.cache
 D:\EF Project\EF Project Creating DB\obj\Debug\net8.0\EF Project Creating DB.AssemblyInfo.cs
 D:\EF Project\EF Project Creating DB\obj\Debug\net8.0\EF Project Creating DB.csproj.CoreCompileInputs.cache
+D:\EF Project\EF Project Creating DB\obj\Debug\net8.0\EF Project Creating DB.sourcelink.json
 D:\EF Project\EF Project Creating DB\obj\Debug\net8.0\EF Proje.49925EB3.Up2Date
 D:\EF Project\EF Project Creating DB\obj\Debug\net8.0\EF Project Creating DB.dll
 D:\EF Project\EF Project Creating DB\obj\Debug\net8.0\refint\EF Project Creating DB.dll

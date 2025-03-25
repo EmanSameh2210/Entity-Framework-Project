@@ -49,8 +49,18 @@ namespace EF_Project_Forms
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error: " + ex.Message);
+                // MessageBox.Show("Error: " + ex.Message);
+                var innerMessage = ex.InnerException != null ? ex.InnerException.Message : "No inner exception.";
+                MessageBox.Show($"Error: {ex.Message}\n\nInner Exception: {innerMessage}\n\nStack Trace:\n{ex.StackTrace}");
             }
+        }
+
+        private void back_Click(object sender, EventArgs e)
+        {
+            CourseSessionAttendanceForm courseSessionAttendanceForm= new CourseSessionAttendanceForm();
+            courseSessionAttendanceForm.Show();
+            this.Close();
+
         }
     }
 }

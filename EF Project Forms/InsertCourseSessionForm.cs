@@ -56,7 +56,7 @@ namespace EF_Project_Forms
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error: " + ex.Message);
+                MessageBox.Show("Error: " + ex.ToString());
             }
         }
 

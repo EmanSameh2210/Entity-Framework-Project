@@ -54,6 +54,7 @@
             back.TabIndex = 51;
             back.Text = "Back";
             back.UseVisualStyleBackColor = false;
+            back.Click += back_Click;
             // 
             // csid
             // 

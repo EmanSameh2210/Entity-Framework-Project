@@ -12,7 +12,7 @@ namespace EF_Project_Forms
 {
     public partial class DeptForm : Form
     {
-        public EventHandler DeptForm_Shown { get; private set; }
+        //public EventHandler DeptForm_Shown { get; private set; }
 
         public DeptForm()
         {
@@ -22,7 +22,9 @@ namespace EF_Project_Forms
 
         private void exitbtn_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Form1 form1 = new Form1();
+            form1.Show();
+            Close();
         }
 
         private void loaddept_Click(object sender, EventArgs e)

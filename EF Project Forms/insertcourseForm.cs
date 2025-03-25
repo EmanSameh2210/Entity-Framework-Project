@@ -37,9 +37,9 @@ namespace EF_Project_Forms.Course_CRUD
 
                 context.Courses.Add(course);
 
-                MessageBox.Show("قبل الحفظ");
+               
                 context.SaveChanges();
-                MessageBox.Show("بعد الحفظ");
+                
                 MessageBox.Show("CourseSession added successfully!");
             }
             catch (Exception ex)

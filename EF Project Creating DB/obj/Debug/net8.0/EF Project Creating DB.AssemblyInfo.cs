@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EF Project Creating DB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c711b5cdb1bee6ebb3c6ec3c7c155e770801b454")]
 [assembly: System.Reflection.AssemblyProductAttribute("EF Project Creating DB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EF Project Creating DB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
